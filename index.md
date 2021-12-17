@@ -12,10 +12,10 @@ With a simple keybind, you can retrieve the link to join the respective class, a
 1. Download git fom here: [https://git-scm.com/downloads](https://git-scm.com/downloads)
 2. The script is written in Python3. So you will need that installed.  
 
-    - To check if python3 is installed open the command prompt and type python3 and hit enter. If it opens the microsoft store page for python3(windows), or return "Command not found" (Mac/Linux) it is not installed.  
+    - To check if python3 is installed open the command prompt and type python3 and hit enter. If it opens the microsoft store page for python3 (windows), or return "Command not found" (Mac/Linux) it is not installed.  
     - If you are using MacOS Catalina, Python3 is installed by default. If not you can install it here: [https://git-scm.com/downloads](https://www.python.org/downloads/).  
     - Linux users can install it from [https://git-scm.com/downloads](https://www.python.org/downloads/) as well.  
-    - If you're using windows, click the "Get" button on the microsoft store page.  
+    - If you're using windows, click the "Get" button on the [microsoft store page](https://www.microsoft.com/en-in/p/python-39/9p7qfqmjrfp7?activetab=pivot:overviewtab).  
 
 ### - Windows:
 Run the following commands:
